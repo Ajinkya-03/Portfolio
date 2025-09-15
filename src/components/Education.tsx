@@ -22,6 +22,7 @@ const Education = () => {
         'Software Engineering',
         'Database Management',
         'Computer Networks',
+        'Agile Methodology'
       ]
     }
   ];

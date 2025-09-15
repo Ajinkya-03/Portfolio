@@ -12,9 +12,9 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row items-center justify-between">
           <div className="mb-4 md:mb-0">
             <p className="text-gray-300 dark:text-gray-400 flex items-center space-x-2">
-              <span>© 2024 Alex Johnson. Built with</span>
+              <span>2025 Ajinkya Patil. Built with</span>
               <Heart size={16} className="text-red-500 fill-current" />
-              <span>and React + TypeScript</span>
+              <span>React + TypeScript</span>
             </p>
           </div>
           
