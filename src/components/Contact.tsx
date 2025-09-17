@@ -68,7 +68,7 @@ const Contact = () => {
     {
       icon: Linkedin,
       label: 'LinkedIn',
-      href: 'https://linkedin.com',
+      href: 'https://www.linkedin.com/in/ajinkyapatil3001/',
       color: 'hover:text-blue-600'
     },
     {

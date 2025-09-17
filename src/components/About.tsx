@@ -8,8 +8,8 @@ const About = () => {
 
   const skills = [
     { category: 'Languages', items: ['Python', 'C++', 'JavaScript', 'Java'] },
-    { category: 'Frontend', items: ['React', 'TypeScript', 'HTML5', 'CSS3'] },
-    { category: 'Styling', items: ['Tailwind CSS', 'Bootstrap', 'CSS Modules'] },
+    { category: 'Frontend', items: ['HTML5', 'CSS3','Javascript' , 'Typescript','Reactjs'] },
+    { category: 'Styling', items: ['Tailwind CSS', 'Bootstrap', 'CSS Modules' , 'MaterialUI','React-Lib'] },
     { category: 'Tools', items: ['Git','Github', 'Vite', 'npm', 'VS Code','Versel', 'Firebase'] },
     { category: 'Design', items: ['Figma','UI/UX','Responsive Design'] }
   ];

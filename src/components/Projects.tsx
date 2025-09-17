@@ -9,7 +9,7 @@ const Projects = () => {
     {
       title: 'Go-RSVP',
       description: 'An event management platform for organizing, joining and connecting with possible attendees !',
-      image: 'https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSprIdek7gm1fS0Ylx9csITWQXzSmfTP_bRg&s',
       technologies: ['React', 'MongoDB', 'Tailwind CSS', 'Express', 'Node','Git-Github'],
       liveUrl: 'https://go-rsvp.vercel.app/',
       githubUrl: 'https://github.com/Ajinkya-03/GoRSVP',
@@ -18,7 +18,7 @@ const Projects = () => {
     {
       title: 'MoneyVue',
       description: 'It is a personal finance tracker website where user can track his/her personal finances and keep a record by donwloading in an CSV file',
-      image: 'https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSprIdek7gm1fS0Ylx9csITWQXzSmfTP_bRg&s',
       technologies: ['React', 'CSS3', 'Node', 'Chartjs', 'Firebase','Git-Github'],
       liveUrl: 'https://moneyvue-6f9a8.web.app/',
       githubUrl: 'https://github.com/Ajinkya-03/MoneyVeu',
@@ -27,7 +27,7 @@ const Projects = () => {
     {
       title: 'FilmByte',
       description: 'A ready to go platform for users to keep track all the latest movies and valt them .',
-      image: 'https://images.pexels.com/photos/3184360/pexels-photo-3184360.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSprIdek7gm1fS0Ylx9csITWQXzSmfTP_bRg&s',
       technologies: ['React', 'TailwindCSS', 'TMDB API'],
       liveUrl: 'https://film-byte.vercel.app/',
       githubUrl: 'https://github.com/Ajinkya-03/FilmByte',
@@ -36,7 +36,7 @@ const Projects = () => {
     {
       title: 'RideX',
       description: 'A responsive car rental website showcasing modern cars for rental using secure login system',
-      image: 'https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSprIdek7gm1fS0Ylx9csITWQXzSmfTP_bRg&s',
       technologies: ['HTML' , 'CSS', 'JS'],
       liveUrl: 'https://example.com',
       githubUrl: 'https://github.com',

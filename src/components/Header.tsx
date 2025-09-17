@@ -45,7 +45,7 @@ const Header = () => {
     <header className="fixed top-0 left-0 right-0 bg-black backdrop-blur-md shadow-sm z-50">
       <div className="max-w-6xl mx-auto px-4 sm:px-3 lg:px-2">
         <div className="flex justify-between items-center h-14">
-          <div className="font-bold text-xl text-white">Ajinkya :-</div>
+          <div className="font-bold text-xl text-white">/-Ajinkya-/</div>
           
           {/* Desktop Navigation */}
           <nav className="hidden md:flex space-x-1">
