@@ -58,7 +58,7 @@ const Education = () => {
       period: '2024'
     },
     {
-      title: 'Arrdino certificate',
+      title: 'Arduino certificate',
       description: 'First place in University Tech Hackathon for developing an innovative web application',
       period: 'March 2024'
     },
