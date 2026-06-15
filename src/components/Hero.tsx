@@ -1,6 +1,6 @@
 import React from 'react';
 import { Github, Linkedin, Mail, Download, ArrowDown } from 'lucide-react';
-import resumePDF from "../assets/Ajinkya Patil Resume(1).pdf";
+import resumePDF from "../assets/Ajinkya_patil_resume.pdf";
 
 const Hero = () => {
   const scrollToAbout = () => {
@@ -35,7 +35,7 @@ const Hero = () => {
           >
             <a
               href={resumePDF}
-              download="Ajinkya Patil Resume(1).pdf"
+              download="Ajinkya_patil_resume.pdf"
               className="px-8 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl flex items-center space-x-2"
             >
               <Download size={20} />
